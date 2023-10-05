@@ -27,6 +27,9 @@
             <a class="nav-link disabled">Carrito</a>
           </li>
         </ul>
+
+
+        <h3>EJEMPLO FUNCIONAMIENTO GIT</h3>
         <form class="d-flex" role="search">
           <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Buscar">
           <button class="btn btn-outline-success" type="submit">Buscar</button>
